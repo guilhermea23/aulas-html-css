@@ -1,15 +1,9 @@
-# Base
-
-  - https://www.santosfc.com.br/
-  - https://www.uol.com.br/
-
 # HTML ✔
   
   - Hyper-Text-Markup-Language ou Linguagem de Marcação de HiperTexto
   - O corpo de uma página.
 
 # Tags HTML ✔
-  # (Abrir o código a partir daqui)
   - Como se trata de uma linguagem de marcação, nós apenas delimitamos onde algum elemento deve ficar.
   - Podemos delimitar:
     - Títulos 
