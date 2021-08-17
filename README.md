@@ -18,10 +18,13 @@
 
   - Simples. Nós usamos identificadores ou classes.
 
-  # Mas não é uma linguagem de marcação? Como eu vou criar uma classe?
-    
-    - Confia.
-    - Nós vamos delimitar isso definindo estilos, seja no escopo HTML, seja em outro arquivo. (Vamos começar a estilizar aqui!)
+# Mas não é uma linguagem de marcação? Como eu vou criar uma classe?
+
+  ![Confia](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F4k0jhl.png&f=1&nofb=1)
+  - Confia.
+  
+  
+  - Nós vamos delimitar isso definindo estilos, seja no escopo HTML, seja em outro arquivo.
 
 # Tá agora que já sei como fazer uma página eu vo hackear a NASA hehehe
 
