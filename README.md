@@ -28,4 +28,7 @@
 
 # Tá agora que já sei como fazer uma página eu vo hackear a NASA hehehe
 
-  - Pera lá né amigão! Muita calma nessa hora! Aprendemos a fazer uma página estática. Ou seja, não rola interação ainda. (Mostrar imagem de como funciona a WEB)
+  - Pera lá né amigão! Muita calma nessa hora! Aprendemos a fazer uma página estática. Ou seja, não rola interação ainda.
+
+
+![COMO FUNCIONA A WEB](https://github.com/guilhermea23/aulas-html-css/blob/main/Como%20funciona%20a%20WEB.jpg)
