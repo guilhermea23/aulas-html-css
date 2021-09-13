@@ -8,6 +8,14 @@ header h1{
   flex-direction: row;
 }
 
+#image{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 20em;
+  height: 10em;
+}
+
 .text-input{
   display:flex;
   justify-content: center;
@@ -45,12 +53,7 @@ header h1{
   color: #fff;
 }
 
-input:focus{
-  border:8px solid #0a0;
-
-}
-
 a{
   text-decoration: none;
-  color:rgb(84, 57, 110);
+  color:rgb(87, 53, 168);
 }
