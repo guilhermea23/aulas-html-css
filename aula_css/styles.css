@@ -1,0 +1,56 @@
+*{
+  color: rgb(84, 57, 110);
+}
+
+header h1{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.text-input{
+  display:flex;
+  justify-content: center;
+  margin:1rem;
+}
+
+.text-input input{
+  text-align: center;
+}
+
+#feedback{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#feedback textarea{
+  text-align: center;
+}
+
+#button{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  flex-direction: row;
+  margin-top: 1rem;
+}
+
+#button button{
+  background: #98f;
+}
+
+#button button:hover{
+  cursor:pointer;
+  opacity:0.75;
+  color: #fff;
+}
+
+input:focus{
+  border:8px solid #0a0;
+
+}
+
+a{
+  text-decoration: none;
+  color:rgb(84, 57, 110);
+}
