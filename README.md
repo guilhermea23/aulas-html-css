@@ -29,6 +29,7 @@
 
 # Tá agora que já sei como fazer uma página eu vo hackear a NASA hehehe
 
-  - Pera lá né amigão! Muita calma nessa hora! Aprendemos a fazer uma página estática. Ou seja, não rola interação ainda. Ai vai uma imagem que resume como, não só sites, mas também diversos outros softwares funcionam:
+  - Pera lá né amigão! Muita calma nessa hora! Aprendemos a fazer uma página estática. Ou seja, não rola interação ainda.
 
-  ![Como softwares funcionam](https://github.com/guilhermea23/aulas-html-css/blob/main/Como%20softwares%20funcionam.png)
+
+![Como softwares funcionam](https://github.com/guilhermea23/aulas-html-css/blob/main/Como%20softwares%20funcionam.png)
