@@ -25,7 +25,7 @@
   
   
   - Nós vamos delimitar isso definindo estilos, seja no escopo HTML, seja em outro arquivo. Como assim? 
-  - Podemos fazer estilização dentro da tag ```<style>``` ou podemos criar um novo arquivo ```style.js```
+  - Podemos fazer estilização dentro da tag ```<style>``` ou podemos criar um novo arquivo ```style.css```
 
 # Tá agora que já sei como fazer uma página eu vo hackear a NASA hehehe
 
