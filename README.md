@@ -3,33 +3,63 @@
   - Hyper-Text-Markup-Language ou Linguagem de Marcação de HiperTexto
   - Marca o corpo de uma página.
 
-# Tags HTML ✔
-  - Como se trata de uma linguagem de marcação, nós apenas delimitamos onde algum elemento deve ficar.
-  - Podemos delimitar:
-    - Títulos (```<h1>-<h6>```)
-    - Barra de Navegação (```<nav>```)
-    - Parágrafos (```<p>, <strong>, <marquee>```)
-    - Imagens(```<img>```)
-    - Links(```<a>```)
-    - Caixas de Texto(```<textarea>```)
-    - ...
+## Tags HTML ✔
+  - Como se trata de uma linguagem de marcação, nós apenas delimitamos espaços.
+  - Para isso usamos tags, que ficam entre os sinais de maior e menor que, conforme padrão:
 
-# Ok, já entendemos que é uma linguagem de marcação mas porque c$%!&*#s falamos que delimitamos e fica tudo junto?
+    - ```<tag></tag>```
 
-  - Simples. Nós usamos identificadores ou classes. (```id, class```)
 
-# Mas não é uma linguagem de marcação? Como eu vou criar uma classe?
-
-  ![Confia](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.imgflip.com%2F4k0jhl.png&f=1&nofb=1)
-  - Confia.
+  ### Exemplo de tags:
   
+    Títulos -> <h6>-<h1>
+    Parágrafos -> <p>
+    Links -> <a>
+    Caixas de Texto -> <textarea>
+    
+  - Algumas tags não precisam de fechamento quando escritas em HTML puro, exemplo: ```<img>``` ou ```<input>```
+  - Além disso podemos definir estilos para as páginas de duas maneiras:
+    - Usando a tag ```<style></style>```
+    - Criando um arquivo novo para o CSS
+
+# CSS ✔
+  - Cascading Style Sheets ou Folhas de Estilo em Cascata
+  - Serve não só para definir o estilo das páginas mas também para criar efeitos, animações, etc.
   
-  - Nós vamos delimitar isso definindo estilos, seja no escopo HTML, seja em outro arquivo. Como assim? 
-  - Podemos fazer estilização dentro da tag ```<style>``` ou podemos criar um novo arquivo ```style.css```
+  ## Primeiros passos no CSS ✔
+  - Assim como em outras linguagens no CSS terminamos uma linha de código com ```;```
+  - Além disso, nós também podemos usar variáveis.
+  - Como declarar uma váriável no CSS: para isso vamos na raiz do arquivo (```*```) e definimos o nome após dois traços (```--```), conforme o exemplo abaixo declarando duas variáveis de cores.
+  ```
+  *{
+    --white-pattern: #ffffff;
+    --black-pattern: #121212;
+  }
+  ```
 
-# Tá agora que já sei como fazer uma página eu vo hackear a NASA hehehe
+  - Para pegarmos elementos do CSS usamos os seguintes atributos que a maioria das tags possume  ```id``` e ```class```, qual a diferença?<br/>
+    
+    - Com ```id``` definimos elementos únicos na página
+    
+    - Com ```class``` definimos elementos que podem aparecer mais de uma vez na página
 
-  - Pera lá né amigão! Muita calma nessa hora! Aprendemos a fazer uma página estática. Ou seja, não rola interação ainda.
+  - Mas o que podemos estilizar? Tudo! Além de ids e classes o CSS é esperto o suficiente pra entender o que são as tags.
+  
+  ## Propriedades que podemos alterar no CSS
+  - Cor da letra (```color```);
+  - Cor de fundo (```background```);
+  - Bordas (```border```);
+  - Margens (```margin```)
+  - Preenchimentos (```padding```)
+  - Modo de exibição (```display```)
+  - Posicionamento de textos (```justify-content, justify-self, justify-items, justify-tracks, text-justify ```)
+  - Alinhamento (```align-self, align-items, align-content, align-tracks```)
 
-
-![Como softwares funcionam](https://github.com/guilhermea23/aulas-html-css/blob/main/Como%20softwares%20funcionam.png)
+# Fim! Abaixo deixo algumas dicas e links.
+## Dicas
+- Crie landing pages
+- Tente clonar sites chamativos
+- Domine uma propriedade antes de ir para outra
+## Links
+- [HTML Tutorial](https://www.w3schools.com/html/default.asp)
+- [CSS Tutorial](https://www.w3schools.com/css/default.asp)
