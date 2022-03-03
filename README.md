@@ -60,6 +60,7 @@
 - Crie landing pages
 - Tente clonar sites chamativos
 - Domine uma propriedade antes de ir para outra
+- Inspecione páginas, como? Vai em uma página qualquer e aperta ```F12``` ou ```Ctrl + Shift + I``` ou vai nos três pontos na parte superior direita, Mais Ferramentas, Ferramentas do Desenvolvedor.
 ## Links
 - [HTML Tutorial](https://www.w3schools.com/html/default.asp)
 - [CSS Tutorial](https://www.w3schools.com/css/default.asp)
