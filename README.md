@@ -31,7 +31,7 @@
   - Além disso, nós também podemos usar variáveis.
   - Como declarar uma váriável no CSS: para isso vamos na raiz do arquivo (```*```) e definimos o nome após dois traços (```--```), conforme o exemplo abaixo declarando duas variáveis de cores.
   ```
-  *{
+  :root{
     --white-pattern: #ffffff;
     --black-pattern: #121212;
   }
